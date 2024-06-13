@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rajeev and I'm from India</h2>
+<h2 align="left">Hi 👋! My name is Rajeev and I'm from India.</h2>
 <div aligh = "center"> <img src = "https://github.com/rajeevbharadwaj9900/rajeevbharadwaj9900/blob/main/goku.gif"> </div>
 
 ###

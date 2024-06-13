@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Rajeev and I'm from India</h2>
+<div aligh = "center"> <img src = "https://github.com/rajeevbharadwaj9900/rajeevbharadwaj9900/blob/main/goku.gif"> </div>
 
 ###
-
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=AI-ML+enthusiast✌!;&center=false&size=25">
   </a>
@@ -10,10 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rajeevbharadwaj9900&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeevbharadwaj9900&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://motionbgs.com/media/364/black-background-with-goku-dragon-ball-z_312.gif"  />
 
 ###
 
